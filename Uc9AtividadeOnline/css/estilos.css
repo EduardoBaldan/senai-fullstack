@@ -52,6 +52,9 @@ p {
 	border-radius: 10px;
 }
 
+#carousel-item :active
+
+
 #rodape {
 	border-top: solid 3px rgba(54, 65, 161, 1);
 	height: 40px;
