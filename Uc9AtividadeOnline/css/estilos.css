@@ -1,0 +1,86 @@
+body {
+	margin: 5px;
+	background-image: url("../imagens/fundo.jpg");
+}
+
+/*imagem game zone*/
+.logo {
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	width: 120px;
+	height: 120px;
+}
+
+/*imagem luzes*/
+.cabecalho__logo {
+	position: relative;
+	top: 0px;
+	left: 0px;
+
+	width: 1340px;
+	height: 150px;
+	margin: auto;
+}
+
+/*menu playstation*/
+#menu {
+	width: 1340px;
+	height: 150px;
+
+	margin: 0 auto;
+	/* background-color: rgba(54, 65, 161, 1); */
+	padding-top: 15px;
+}
+
+/*Texto da pagina*/
+p {
+	width: 960px;
+	color: #000000;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	font-size: 30px;
+}
+
+.foto-borda {
+	border-radius: 20px;
+	border: solid 3px rgba(54, 65, 161, 1);
+}
+
+.botao {
+	width: 10%;
+	border-radius: 10px;
+}
+
+#rodape {
+	border-top: solid 3px rgba(54, 65, 161, 1);
+	height: 40px;
+	color: #000000;
+	padding-top: 50px;
+	width: 960px;
+
+}
+
+.rodape {
+	position: relative;
+	top: 0px;
+	left: 0px;
+
+	width: 1340px;
+	height: 150px;
+	margin: auto;
+
+}
+
+.rodape__social {
+
+	position: absolute;
+	top: -5px;
+	left: 1150px;
+	height: 100px;
+	display: flex;
+	flex-direction: row; 
+	justify-content: space-between;
+	align-items: center; 
+
+}
