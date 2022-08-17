@@ -1,0 +1,159 @@
+
+.banner {
+    height: 710px;    
+    
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.posicionamento-banner {
+    height: 100%;
+    
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.conteudo-banner {
+    width: 495px;
+    height: 300px;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    
+    color: white;
+}
+
+.conteudo-banner a {
+    padding: 15px;
+
+    color: white;
+    background-color: #C31616;
+    border-radius: 5px;
+
+    font-family: "Roboto";
+    font-size: 25px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.conteudo-banner h1 {
+    font-family: "Titillium Web";
+    font-weight: bold;
+    font-size: 80px;
+}
+
+.conteudo-banner p {
+    font-family: "Roboto";
+    font-size: 25px;
+}
+
+/* ----------------------- */
+
+.espaco-produtos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 25px;
+}
+.cardnews{
+    width: 100em;
+    height:60em;
+    background: linear-gradient(180deg, rgba(83, 83, 83, 0.5) 0%, #000000 100%);
+    color: #fff;
+    margin-bottom: 2em;
+    box-shadow: 0px 0px 10px rgb(0, 0, 0),0px 0px 30px rgb(0, 0, 0);
+}
+
+.cardnews {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cardnews img {
+    width:70%;
+}
+#ps5noticias{
+    width: 40%;
+}
+
+.texto-card {
+    width: 85%;
+    height: 55%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+
+.texto-card h3, .texto-card p {
+    margin: 0;
+}
+
+.cardnews h3{
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.cardnews .preco {
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.cardnews a {
+    width: 100%;
+    height: 35px;
+    text-align: center;
+    line-height: 2;
+    
+    background-color: #C31616;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+/* ----------------------- */
+
+.ofertas {
+    background-image: url(/assets/imagens/fundo.jpg);
+    padding-top: 30px;
+}
+.ofertas h2 {
+    font-family: 'Roboto';
+    color: #fff;
+    font-size: 27px;
+}
+
+.secao-sobre-noticias{
+    background-image: url(/assets/imagens/imagenHorizonZeroDawn.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.conteudo-sobre {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.texto-sobre {
+    height: 100%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+}
+
+.texto-sobre h2 {
+    margin-bottom: 2rem;
+}

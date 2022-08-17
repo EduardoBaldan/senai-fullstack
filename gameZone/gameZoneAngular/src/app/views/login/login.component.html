@@ -1,0 +1,24 @@
+<main>
+    <section class="secao-login">
+        <div class="container conteudo-sobre-login">
+            <div class="texto-sobre-login">
+                <form (ngSubmit)="receberDados()" action="cadastro" method="post">
+                    <div class="cadastro">
+                                                
+                        <div>
+                            <label for="e-mail">E-mail:</label>
+                            <input type="text" name="email" id="e-mail" placeholder="email@email.com" [(ngModel)]="userModel.email">
+                        </div>
+                        <div>
+                            <label for="senhas">Senha:</label>
+                            <input type="password" name="password" id="senha" placeholder="senha" [(ngModel)]="userModel.password">
+                        </div>
+
+                        <button class="botao" onclick="login()">Login</button>
+                        
+                    </div>                    
+                 </form>
+            </div>
+        </div>
+    </section>    
+</main>

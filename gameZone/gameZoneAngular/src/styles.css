@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;600;700&display=swap');
+
+/* Reset css */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1200px;
+}
+
+.banner-ragnarok {
+    background-image: url(/assets/imagens/imagenRagnarökr.jpg);
+}
+
+.banner-horizon {
+    background-image: url(/assets/imagens/imagenHorizonZeroDawn.jpg);
+}
+
+.banner-eldenring {
+    background-image: url(/assets/imagens/imagenEldenRing.jpg);
+}
+
+.banner-spider {
+    background-image: url(/assets/imagens/imagenSpider.jpg);
+}
+
+.banner-sekiro {
+    background-image: url(/assets/imagens/imagenSekiro.png);
+}
+
+.banner-tsushima {
+    background-image: url(/assets/imagens/imagenGhostofTsushima.jpg);
+}
+
