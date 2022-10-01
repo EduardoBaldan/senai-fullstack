@@ -1,0 +1,48 @@
+
+
+.secao-login {
+    background-image: url(/assets/imagens/Final\ Fantasy\ VII\ Remake.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.texto-sobre-login {
+    height: 100%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+}
+
+.cadastro{
+    border-radius: 0;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    display: inline-block;
+    width: 90px;
+    text-align: left;
+
+}
+.botao {
+    background-color: #0649f5;
+    border-radius:24px;
+    padding: .75em 3em;
+    color: white;    
+}
+
+.container {
+    
+    padding-left: 800px;
+    padding-top: 400px;
+    padding-right: 100px; 
+    
+}
+
+#mensagem {
+    color: white;
+    
+}
+
