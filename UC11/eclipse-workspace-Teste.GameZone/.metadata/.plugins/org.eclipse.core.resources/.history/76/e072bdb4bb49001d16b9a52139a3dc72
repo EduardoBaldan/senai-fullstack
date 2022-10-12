@@ -1,0 +1,23 @@
+package TesteLoginGameZone;
+
+import org.junit.After;
+import org.junit.Before;
+import org.junit.Test;
+
+public class TesteDeLogin {
+	
+	@Before
+	public void ConfigurarTeste() {
+		
+	}
+	
+	@Test
+	public void TestarLogin() {
+		
+	}
+	
+	@After
+	public void EncerrarTeste() {
+		
+	}
+}
