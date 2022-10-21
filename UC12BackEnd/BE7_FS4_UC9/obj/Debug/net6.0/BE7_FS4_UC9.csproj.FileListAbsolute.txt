@@ -13,3 +13,18 @@ C:\Users\eduar\OneDrive\Área de Trabalho\BE7_FS4_UC9\obj\Debug\net6.0\refint\BE
 C:\Users\eduar\OneDrive\Área de Trabalho\BE7_FS4_UC9\obj\Debug\net6.0\BE7_FS4_UC9.pdb
 C:\Users\eduar\OneDrive\Área de Trabalho\BE7_FS4_UC9\obj\Debug\net6.0\BE7_FS4_UC9.genruntimeconfig.cache
 C:\Users\eduar\OneDrive\Área de Trabalho\BE7_FS4_UC9\obj\Debug\net6.0\ref\BE7_FS4_UC9.dll
+C:\senai fullstack\UC12BackEnd\BE7_FS4_UC9\bin\Debug\net6.0\BE7_FS4_UC9.exe
+C:\senai fullstack\UC12BackEnd\BE7_FS4_UC9\bin\Debug\net6.0\BE7_FS4_UC9.deps.json
+C:\senai fullstack\UC12BackEnd\BE7_FS4_UC9\bin\Debug\net6.0\BE7_FS4_UC9.runtimeconfig.json
+C:\senai fullstack\UC12BackEnd\BE7_FS4_UC9\bin\Debug\net6.0\BE7_FS4_UC9.dll
+C:\senai fullstack\UC12BackEnd\BE7_FS4_UC9\bin\Debug\net6.0\BE7_FS4_UC9.pdb
+C:\senai fullstack\UC12BackEnd\BE7_FS4_UC9\obj\Debug\net6.0\BE7_FS4_UC9.csproj.AssemblyReference.cache
+C:\senai fullstack\UC12BackEnd\BE7_FS4_UC9\obj\Debug\net6.0\BE7_FS4_UC9.GeneratedMSBuildEditorConfig.editorconfig
+C:\senai fullstack\UC12BackEnd\BE7_FS4_UC9\obj\Debug\net6.0\BE7_FS4_UC9.AssemblyInfoInputs.cache
+C:\senai fullstack\UC12BackEnd\BE7_FS4_UC9\obj\Debug\net6.0\BE7_FS4_UC9.AssemblyInfo.cs
+C:\senai fullstack\UC12BackEnd\BE7_FS4_UC9\obj\Debug\net6.0\BE7_FS4_UC9.csproj.CoreCompileInputs.cache
+C:\senai fullstack\UC12BackEnd\BE7_FS4_UC9\obj\Debug\net6.0\BE7_FS4_UC9.dll
+C:\senai fullstack\UC12BackEnd\BE7_FS4_UC9\obj\Debug\net6.0\refint\BE7_FS4_UC9.dll
+C:\senai fullstack\UC12BackEnd\BE7_FS4_UC9\obj\Debug\net6.0\BE7_FS4_UC9.pdb
+C:\senai fullstack\UC12BackEnd\BE7_FS4_UC9\obj\Debug\net6.0\BE7_FS4_UC9.genruntimeconfig.cache
+C:\senai fullstack\UC12BackEnd\BE7_FS4_UC9\obj\Debug\net6.0\ref\BE7_FS4_UC9.dll

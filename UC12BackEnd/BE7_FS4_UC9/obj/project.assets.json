@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eduar\\OneDrive\\Área de Trabalho\\BE7_FS4_UC9\\BE7_FS4_UC9.csproj",
+      "projectUniqueName": "C:\\senai fullstack\\UC12BackEnd\\BE7_FS4_UC9\\BE7_FS4_UC9.csproj",
       "projectName": "BE7_FS4_UC9",
-      "projectPath": "C:\\Users\\eduar\\OneDrive\\Área de Trabalho\\BE7_FS4_UC9\\BE7_FS4_UC9.csproj",
+      "projectPath": "C:\\senai fullstack\\UC12BackEnd\\BE7_FS4_UC9\\BE7_FS4_UC9.csproj",
       "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eduar\\OneDrive\\Área de Trabalho\\BE7_FS4_UC9\\obj\\",
+      "outputPath": "C:\\senai fullstack\\UC12BackEnd\\BE7_FS4_UC9\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eduar\\AppData\\Roaming\\NuGet\\NuGet.Config"
