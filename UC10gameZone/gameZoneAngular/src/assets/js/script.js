@@ -48,12 +48,12 @@ function cadastro() {
     
 }
 
-function login() {
-    let email = document.getElementById("campo-email").value
+// function login() {
+//     let email = document.getElementById("campo-email").value
 
-    alert('Login realizado com sucesso')
+//     alert('Login realizado com sucesso')
     
-}
+// }
 
 function cadastrarNewsletter() {
     let email = document.getElementById("campo-email").value

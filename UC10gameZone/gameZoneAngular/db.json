@@ -29,6 +29,18 @@
       "password": "$2a$10$6WtlI40iW.bLMnvId.nExO4UWtZGJkI260dRW2MLxaghtpyrF2rM.",
       "nome": "Camila",
       "id": 7
+    },
+    {
+      "email": "Beatriz@gmail.com",
+      "password": "$2a$10$G3GZ/5esOHr.55v9tlc/suXOv1kOrBbatrA8yKMf5r7Lb8FfnBT2m",
+      "nome": "Beatriz",
+      "id": 8
+    },
+    {
+      "email": "camilla@email.com",
+      "password": "$2a$10$2dd9sor1AKL1nUa21FIoUe45ml8KMb/aieq806F.YR/u9Nm6euBni",
+      "nome": "Camilla",
+      "id": 9
     }
   ]
 }
