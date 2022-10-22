@@ -44,18 +44,19 @@ ___________________________
             PessoaFisica metodoPf = new PessoaFisica();
             novaPf.nome = "Gerald De Rivia";
             novaPf.dataNascimento = "01/01/1000";
-            novaPf.cpf = "001.001.111.11";
-            novaPf.rendimento = 1000.0f;
+            novaPf.cpf = "00100111111";
+            novaPf.rendimento = 2000.0f;
             novoEnd.logradouro = "Carniceiro de Blaviken";
             novoEnd.numero = 11;
             novoEnd.complemento = "Castelo de Kaermor";
             novoEnd.endComercial = true;
             novaPf.endereco = novoEnd;
-
             Console.WriteLine(@$"
-            Nome: {novaPf.nome}
-            Endereço: {novaPf.endereco.logradouro}, {novaPf.endereco.numero}
-            Maior de idade: {metodoPf.ValidarDataNascimento(novaPf.dataNascimento)}");
+                Nome: {novaPf.nome}
+                Endereço: {novaPf.endereco.logradouro}, {novaPf.endereco.numero}
+                Maior de idade: {(metodoPf.ValidarDataNascimento(novaPf.dataNascimento) ? "Sim": "Não")}
+                Taxa de Imposto a ser paga é: {metodoPf.PagarImposto(novaPf.rendimento).ToString("C")}
+                ");
             Console.WriteLine($"Digite Enter para sair");
             Console.ReadLine();
 
@@ -66,23 +67,21 @@ ___________________________
             PessoaJuridica metodoPj = new PessoaJuridica();
             PessoaJuridica novaPj = new PessoaJuridica();
             Endereco novoEndpj = new Endereco();
-
             novaPj.nome = "SENAI";
-            novaPj.cnpj = "10.123.456/0001.12";
+            novaPj.cnpj = "10.123.456/0001-12";
             novaPj.razaoSocial = "Senai Informatica";
-            novaPj.rendimento = 6000;
-
+            novaPj.rendimento = 8000.0f;
             novoEndpj.logradouro = "Avenida nao lembro";
             novoEndpj.numero = 537;
             novoEndpj.complemento = "casa 01";
             novoEndpj.endComercial = true;
-
-
             Console.WriteLine($@"
-            Nome: {novaPj.nome}
-            Razão Social: {novaPj.razaoSocial}
-            CNPJ: {novaPj.cnpj}
-            CNPJ é valido: {metodoPj.ValidarCnpj(novaPj.cnpj)}");
+                Nome: {novaPj.nome}
+                Razão Social: {novaPj.razaoSocial}
+                CNPJ: {novaPj.cnpj}
+                CNPJ é valido: {(metodoPj.ValidarCnpj(novaPj.cnpj) ? "Sim": "Não")}
+                Taxa de Imposto a ser paga é: {metodoPj.PagarImposto(novaPj.rendimento).ToString("C")}
+                ");
 
             Console.WriteLine($"Digite Enter para sair");
             Console.ReadLine();
