@@ -14,6 +14,9 @@ VALUES ('itulo A', '120', '1');
 INSERT INTO Livros  (Titulo, QuantidadePaginas, Disponivel)
 VALUES ('itulo B', '220', '0');
 
+INSERT INTO Livros  (Titulo, QuantidadePaginas, Disponivel)
+VALUES ('Titulo C', '225', '1');
+
 UPDATE Livros
 SET Titulo = 'Titulo A'
 where Id = 1;
