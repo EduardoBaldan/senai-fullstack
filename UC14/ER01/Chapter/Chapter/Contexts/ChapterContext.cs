@@ -17,7 +17,7 @@ namespace Chapter.Contexts
             if (!optionsBuilder.IsConfigured) 
             {
                 //cada probedor tem sua sintaxe para especificação
-                optionsBuilder.UseSqlServer("Data Source = NOTEEDUARDOSONY\\SQLEXPRESS; initial catalog = Chapter; intergrated Security = true");
+                optionsBuilder.UseSqlServer("Data Source = NOTEEDUARDOSONY\\SQLEXPRESS; initial catalog = Chapter; integrated Security = true");
             }
         }
 
@@ -26,3 +26,5 @@ namespace Chapter.Contexts
 
     }
 }
+
+

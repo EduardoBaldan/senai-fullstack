@@ -24,7 +24,7 @@ namespace Chapter.Controllers
             {
                 return Ok(_livroRepository.Listar());
             }
-            catch(Exception e)
+            catch (Exception e)
             {
                 throw new Exception(e.Message);
             }
