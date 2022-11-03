@@ -58,3 +58,4 @@ C:\senai fullstack\UC14\Atividade_Online_2\ExoAPI\ExoAPI\ExoAPI\obj\Debug\net6.0
 C:\senai fullstack\UC14\Atividade_Online_2\ExoAPI\ExoAPI\ExoAPI\obj\Debug\net6.0\ExoAPI.pdb
 C:\senai fullstack\UC14\Atividade_Online_2\ExoAPI\ExoAPI\ExoAPI\obj\Debug\net6.0\ExoAPI.genruntimeconfig.cache
 C:\senai fullstack\UC14\Atividade_Online_2\ExoAPI\ExoAPI\ExoAPI\obj\Debug\net6.0\ref\ExoAPI.dll
+C:\senai fullstack\UC14\Atividade_Online_2\ExoAPI\ExoAPI\ExoAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

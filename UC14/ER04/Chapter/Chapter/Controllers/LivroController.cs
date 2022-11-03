@@ -12,7 +12,6 @@ namespace Chapter.Controllers
     [ApiController]
 
     [Authorize]
-    
     public class LivroController : ControllerBase
     {
         private readonly LivroRepository _livroRepository;
@@ -41,14 +40,15 @@ namespace Chapter.Controllers
             try
             {
                 Livro livro = _livroRepository.BuscarPorId(id);
-                if(livro == null)
+
+                if (livro == null)
                 {
                     return NotFound();
                 }
-                return Ok(livro);   
+                return Ok(livro);
 
             }
-            catch(Exception)
+            catch (Exception)
             {
                 throw;
             }
@@ -56,14 +56,14 @@ namespace Chapter.Controllers
 
         [Authorize(Roles = "1")]
         [HttpPost]
-        public IActionResult cadastrar(Livro livro)
+        public IActionResult Cadastrar(Livro livro)
         {
             try
             {
                 _livroRepository.Cadastrar(livro);
                 return StatusCode(201);
             }
-            catch(Exception)
+            catch (Exception)
             {
                 throw;
             }
@@ -82,7 +82,7 @@ namespace Chapter.Controllers
                 _livroRepository.Atualizar(id, livro);
                 return StatusCode(204);
             }
-            catch(Exception)
+            catch (Exception)
             {
                 throw;
             }
@@ -94,19 +94,17 @@ namespace Chapter.Controllers
             try
             {
                 Livro livroBuscado = _livroRepository.BuscarPorId(id);
-                if(livroBuscado == null)
+                if (livroBuscado == null)
                 {
                     return NotFound();
                 }
                 _livroRepository.Deletar(id);
                 return StatusCode(204);
             }
-            catch(Exception)
+            catch (Exception)
             {
                 throw;
             }
         }
-
-        
     }
 }
