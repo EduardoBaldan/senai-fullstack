@@ -54,6 +54,7 @@ namespace Chapter.Controllers
             }
         }
 
+        [Authorize(Roles = "1")]
         [HttpPost]
         public IActionResult cadastrar(Livro livro)
         {
