@@ -1,0 +1,12 @@
+C:\senai fullstack\UC15\Atividade_Online2\TesteIMC\TesteIMC\TesteIMC\obj\Debug\net6.0\TesteIMC.csproj.AssemblyReference.cache
+C:\senai fullstack\UC15\Atividade_Online2\TesteIMC\TesteIMC\TesteIMC\obj\Debug\net6.0\TesteIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\senai fullstack\UC15\Atividade_Online2\TesteIMC\TesteIMC\TesteIMC\obj\Debug\net6.0\TesteIMC.AssemblyInfoInputs.cache
+C:\senai fullstack\UC15\Atividade_Online2\TesteIMC\TesteIMC\TesteIMC\obj\Debug\net6.0\TesteIMC.AssemblyInfo.cs
+C:\senai fullstack\UC15\Atividade_Online2\TesteIMC\TesteIMC\TesteIMC\obj\Debug\net6.0\TesteIMC.csproj.CoreCompileInputs.cache
+C:\senai fullstack\UC15\Atividade_Online2\TesteIMC\TesteIMC\TesteIMC\bin\Debug\net6.0\TesteIMC.deps.json
+C:\senai fullstack\UC15\Atividade_Online2\TesteIMC\TesteIMC\TesteIMC\bin\Debug\net6.0\TesteIMC.dll
+C:\senai fullstack\UC15\Atividade_Online2\TesteIMC\TesteIMC\TesteIMC\bin\Debug\net6.0\TesteIMC.pdb
+C:\senai fullstack\UC15\Atividade_Online2\TesteIMC\TesteIMC\TesteIMC\obj\Debug\net6.0\TesteIMC.dll
+C:\senai fullstack\UC15\Atividade_Online2\TesteIMC\TesteIMC\TesteIMC\obj\Debug\net6.0\refint\TesteIMC.dll
+C:\senai fullstack\UC15\Atividade_Online2\TesteIMC\TesteIMC\TesteIMC\obj\Debug\net6.0\TesteIMC.pdb
+C:\senai fullstack\UC15\Atividade_Online2\TesteIMC\TesteIMC\TesteIMC\obj\Debug\net6.0\ref\TesteIMC.dll
